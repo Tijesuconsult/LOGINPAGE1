@@ -1,0 +1,84 @@
+.all{
+    background-color: rgb(91, 148, 185);
+    padding: 200px;
+}
+.border{
+    border: 2px solid white;
+    max-width: 250px;
+    background-color: white;
+    border-color: none;
+    border-radius: 15px;
+    margin: auto;
+}
+.log{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:600;
+}
+.form{
+    padding:2px;
+    text-align: center;
+}
+.email{
+    border: 2px solid gray;
+    border-radius: 10px;
+    background-color: rgb(185, 204, 216);
+    border-color: none;
+}
+.input{
+    padding: 5px 0px 5px 8px;
+    margin: 1px 0px;
+    width:85%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border: 1px solid rgb(172, 189, 202);
+    background-color: rgb(172, 189, 202);
+    border-color: none;
+}
+.sub{
+    padding: 5px 0px 5px 8px;
+    margin: 1px 0px;
+    width:85%;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border: 1px solid rgb(21, 134, 221);
+    background-color:  rgb(21, 134, 221);
+    margin-bottom: 35px;
+}
+.list{
+  display: inline;
+  width: 10px; 
+  position: absolute;
+  position: relative; 
+  top: 10px;
+}
+
+.list1 {
+    display: inline;
+    padding: 5px 9px;
+    margin:100px 10px;
+    background-color: rgb(59, 59, 212);
+    border-radius: 50%;
+    color: white;
+   
+}
+.list2{
+    display: inline;
+    padding: 5px;
+    margin: 15px;
+    background-color: rgb(238, 68, 16);
+    border-radius: 50%;
+    color: white;
+}
+.list3{
+    display: inline;
+    padding: 5px;
+    margin: 15px;
+    background-color: rgb(54, 170, 248);
+    border-radius: 50%;
+    color: white;
+}
